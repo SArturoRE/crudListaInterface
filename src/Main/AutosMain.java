@@ -190,7 +190,7 @@ public class AutosMain {
 				break;
 			}
 		}while(menuPrinc < 11);
-		System.out.println("Muchas gracias por utilizar nuestro programa.....");
+		//eliminamos 1 linea de codigo
 	}
 
 }
